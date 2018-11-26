@@ -2,6 +2,7 @@
   "name": "angular-core-workshop",
   "version": "0.0.0",
   "license": "MIT",
+  "author": "Mark Nuiver",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
